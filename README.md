@@ -19,7 +19,7 @@
 
 ## 🛠️ My Projects
 
-### 📱 [IBAN Defteri](https://github.com/SamedArslan28/IBAN-Defteri)  
+### 📱 [IBAN Defteri](https://github.com/SamedArslan28/IBANBookProject)
 An OCR-based app that reads, stores, and manages IBAN numbers from images or screenshots.  
 **Technologies:** Swift, UIKit, Firebase, Google MLKit, SwiftLint, MVVM-C, User Defaults  
 🌟 **Key Features:**  
@@ -28,7 +28,7 @@ An OCR-based app that reads, stores, and manages IBAN numbers from images or scr
 - Designed with a clean architecture  
 
 
-### 🌍 [TURLA](https://github.com/SamedArslan28/TURLA)  
+### 🌍 [TURLA](https://github.com/gokhansubasi/Turla)
 A travel guide app to discover places and create routes on a map.  
 **Technologies:** Swift, UIKit, Firebase Realtime Database, GoogleSignIn, MapKit  
 🌟 **Key Features:**  
