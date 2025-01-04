@@ -6,7 +6,6 @@
 🌱 **Currently Learning:** Go, Microservices, and gRPC  
 💪 **Proficient In:** Swift, UIKit, SwiftUI, Firebase  
 
----
 
 ## 🔧 Technologies & Tools
 <p align="left">
