@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Samed Arslan!
+# Hi there 👋, I'm Abdulsamed Arslan!
 
 🎓 **Computer Engineer** | 💻 **Mobile & Backend Developer**  
 🚀 Passionate about crafting polished **iOS applications** with **Swift** and exploring scalable **backend systems** with **Golang**.  
