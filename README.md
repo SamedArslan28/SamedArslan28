@@ -6,8 +6,8 @@
 🌱 **Currently Learning:** Go, Microservices, and gRPC  
 💪 **Proficient In:** Swift, UIKit, SwiftUI, Firebase  
 
-
 ## 🔧 Technologies & Tools
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamedArslan28&layout=compact&theme=gruvbox&cache_seconds=1800" />
 <p align="left">
   <img src="https://static.wikia.nocookie.net/ipod/images/4/46/Swift_icon.png/revision/latest?cb=20220607183653" alt="Swift" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Golang" width="50" height="50" />
@@ -20,12 +20,14 @@
 ## 🛠️ My Projects
 
 ### 📱 [IBAN Defteri](https://github.com/SamedArslan28/IBANBookProject)
+<a href="https://github.com/SamedArslan28/IBANBookProject" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamedArslan28&repo=IBANBookProject&theme=gruvbox"></a>
+
 An OCR-based app that reads, stores, and manages IBAN numbers from images or screenshots.  
 **Technologies:** Swift, UIKit, Firebase, Google MLKit, SwiftLint, MVVM-C, User Defaults  
 🌟 **Key Features:**  
 - Automated IBAN extraction using ML Kit  
 - Securely stores and manages data locally  
-- Designed with a clean architecture  
+- Designed with a clean architecture
 
 
 ### 🌍 [TURLA](https://github.com/gokhansubasi/Turla)
