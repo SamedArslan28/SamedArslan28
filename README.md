@@ -20,8 +20,6 @@
 ## 🛠️ My Projects
 
 ### 📱 [IBAN Defteri](https://github.com/SamedArslan28/IBANBookProject)
-[![IBANBookProject](https://github-readme-stats.vercel.app/api/pin/?username=SamedArslan28&repo=IBANBookProject&theme=gruvbox)](https://github.com/SamedArslan28/IBANBookProject)
-
 An OCR-based app that reads, stores, and manages IBAN numbers from images or screenshots.  
 **Technologies:** Swift, UIKit, Firebase, Google MLKit, SwiftLint, MVVM-C, User Defaults  
 🌟 **Key Features:**  
