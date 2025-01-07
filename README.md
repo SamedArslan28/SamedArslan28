@@ -21,9 +21,9 @@
 
 ### 📱 [IBAN Defteri](https://github.com/SamedArslan28/IBANBookProject)
 An OCR-based app that reads, stores, and manages IBAN numbers from images or screenshots.  
-**Technologies:** Swift, UIKit, Firebase, Google MLKit, SwiftLint, MVVM-C, User Defaults  
+**Technologies:** Swift, UIKit, Firebase, Vision, SwiftLint, MVVM-C, User Defaults  
 🌟 **Key Features:**  
-- Automated IBAN extraction using ML Kit  
+- Automated IBAN extraction using Apple Vision Framework  
 - Securely stores and manages data locally  
 - Designed with a clean architecture
 
