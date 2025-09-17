@@ -7,7 +7,7 @@
 💪 **Proficient In:** Swift, UIKit, SwiftUI, Firebase  
 
 ## 🔧 Technologies & Tools
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SamedArslan28&layout=compact&theme=gruvbox" />
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamedArslan28&layout=compact&langs_count=16&theme=gruvbox"/>
 <p align="left">
   <img src="https://static.wikia.nocookie.net/ipod/images/4/46/Swift_icon.png/revision/latest?cb=20220607183653" alt="Swift" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Golang" width="50" height="50" />
