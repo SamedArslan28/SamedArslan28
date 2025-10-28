@@ -72,7 +72,7 @@ A collaborative travel guide app to discover places and create routes on a map.
 Feel free to reach out to me for collaborations or just a chat!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samedarslan/" target="_blank">
+  <a href="[https://www.linkedin.com/in/samedarslan/](https://www.linkedin.com/in/abdulsamed-arslan/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-samedarslan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
